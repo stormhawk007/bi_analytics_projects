@@ -19,7 +19,7 @@ There are several columns which can be derivated from the information provided t
  4. Percentage change (Incremental revenue per event id / Total revenue per event before the promo start) <br>
  5. Difference of quantity sold before and after the promo (Increamental units sold per event id \[ISU])**
 
-These columns were used to review the impact of the campaigns on the revenue and sales so that stakeholders can easily identify and take action based on these insights. 
+These columns were used to review the impact of the campaigns on the revenue and sales so that stakeholders can easily identify and take action in the region of improvements based on these insights. 
 
 ### Dashboard:
 
