@@ -41,6 +41,3 @@ This project underscored the critical role of data-driven decision-making in tai
 
 ### Tools and Techniques: 
 The analysis harnessed one of the best advanced data analytics and visualization tool PowerBI to interpret complex dataset, culminating in a comprehensive dashboard that succinctly presented the findings and informed strategic decisions.
-
-
-
