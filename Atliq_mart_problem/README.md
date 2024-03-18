@@ -8,4 +8,9 @@ Sales director Bruce Haryali wanted this immediately but the analytics manager T
 
 ### About the dataset:
 
-The data i.e. provided to us, is for different sales event happened during the two Campaigns ran by the mart in Diwali and Sankranti season. We are provided with the base price of the product before any promotion, quantity sold immediately preceding the start of the campaign (serving as a baseline for comparison with promotional sales), the quantity of the product sold after the promotion was applied. 
+The data i.e. provided to us, is for different sales event happened during the two Campaigns ran by the mart in Diwali and Sankranti season. We are provided with fact_table which contains `event_id,store_id,product_code, the base price of the product before any promotion, quantity sold immediately preceding the start of the campaign (serving as a baseline for comparison with promotional sales), the quantity of the product sold after the promotion was applied and promo type` which was applied in campaign for that product (e.g. percentage discount, BOGOF(Buy One Get One Free), cashback). There are other various dimensions table provided for the information about the products, stores and campaigns which can be joined two the fact table using various ids provided in the them.
+
+### Analysis:  
+
+
+
