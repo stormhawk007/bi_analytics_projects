@@ -13,11 +13,11 @@ The data i.e. provided to us, is for different sales event happened during the t
 ### Analysis:  
 
 There are several columns which can be derivated from the information provided to us:
-#### 1. Total revenue per event before the promo start
-#### 2. Total revenue per event after the promo start
-#### 3. Difference in these revenue (Increamental revenue per event id)
-#### 4. Percentage change (Incremental revenue per event id / Total revenue per event before the promo start)
-#### 5. Difference of quantity sold before and after the promo (Increamental units sold per event id \[ISU])
+**1. Total revenue per event before the promo start 
+ 2. Total revenue per event after the promo start
+ 3. Difference in these revenue (Increamental revenue per event id)
+ 4. Percentage change (Incremental revenue per event id / Total revenue per event before the promo start)
+ 5. Difference of quantity sold before and after the promo (Increamental units sold per event id \[ISU])**
 
 These columns were used to review the impact of the campaigns on the revenue and sales so that stakeholders can easily identify and take action based on these insights. 
 
