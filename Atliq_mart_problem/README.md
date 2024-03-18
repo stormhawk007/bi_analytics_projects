@@ -25,4 +25,13 @@ These columns were used to review the impact of the campaigns on the revenue and
 
 ![Dashboard](/Atliq_mart_problem/dashboard_final.png)
 
+### Insights:
+
+1. Diwali campaign was observed to be more impactful as it saw 94% increamental overall revnue as compared to Sankranti(54%)
+2. Tier 1 city stores (like Bengaluru, Chennai, Hyderabad) saw most gains in revenue during the promo season as compared to other cities.
+3. 94% of Incremental Revenue generated during the diwali season was observed from the `500 cashback` on `Home_essential_Combo_of_8_products`
+4. The impact from 50% discount promo on `Personal Care` items was negative for both the Campaigns.
+5. Among the tier 2 cities the average incremental revnue per store from the Madurai and Mysore Stores are quite high. This needs to be futher investigated if the stakeholders are looking for business expansion in these cities. 
+6. Performance based on incremental revenue was lowest for the stores in Trivendrum and Mangalore
+
 
