@@ -36,5 +36,11 @@ These columns were used to review the impact of the campaigns on the revenue and
 7. `500 Cashback` and `BOGOF` are top 2 promotion types whereas `33% off`, `25% off` are bottom 2 promotion types (for the products on which these were applied)
 8. The ISU% increase during the Sankarnti Campaign are very high compared to the Diwali Campaigns which is reverse in case of Increamental Revenue, indicating that people bought cheaper products in Sankranti compared to Diwali
 
+### Impact: 
+This project underscored the critical role of data-driven decision-making in tailoring promotional strategies. By showing the relative success of different promotions, AtliQ Mart will be positioned to optimize future campaigns, enhancing both customer engagement and profitability.
+
+### Tools and Techniques: 
+The analysis harnessed one of the best advanced data analytics and visualization tool PowerBI to interpret complex dataset, culminating in a comprehensive dashboard that succinctly presented the findings and informed strategic decisions.
+
 
 
