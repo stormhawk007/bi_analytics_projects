@@ -12,7 +12,7 @@ The data i.e. provided to us, is for different sales event happened during the t
 
 ### Analysis:  
 
-There are several columns which can be derivated from the information provided to us:
+There are several columns which can be derivated from the information provided to us: <br>
 **1. Total revenue per event before the promo start <br>
  2. Total revenue per event after the promo start <br>
  3. Difference in these revenue (Increamental revenue per event id) <br>
