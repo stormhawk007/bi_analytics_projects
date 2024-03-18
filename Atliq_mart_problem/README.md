@@ -33,5 +33,8 @@ These columns were used to review the impact of the campaigns on the revenue and
 4. The impact from 50% discount promo on `Personal Care` items was negative for both the Campaigns.
 5. Among the tier 2 cities the average incremental revnue per store from the Madurai and Mysore Stores are quite high. This needs to be futher investigated if the stakeholders are looking for business expansion in these cities. 
 6. Performance based on incremental revenue was lowest for the stores in Trivendrum and Mangalore
+7. `500 Cashback` and `BOGOF` are top 2 promotion types whereas `33% off`, `25% off` are bottom 2 promotion types (for the products on which these were applied)
+8. The ISU% increase during the Sankarnti Campaign are very high compared to the Diwali Campaigns which is reverse in case of Increamental Revenue, indicating that people bought cheaper products in Sankranti compared to Diwali
+
 
 
