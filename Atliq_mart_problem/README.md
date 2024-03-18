@@ -22,6 +22,6 @@ There are several columns which can be derivated from the information provided t
 These columns were used to review the impact of the campaigns on the revenue and sales so that stakeholders can easily identify and take action based on these insights. 
 
 ### Dashboard:
-![Dashboard](Atliq_mart_problem/Screenshot%2024-03-18%125941.png)
+![Dashboard](/Screenshot%2024-03-18%125941.png)
 
 
