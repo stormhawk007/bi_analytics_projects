@@ -23,6 +23,6 @@ These columns were used to review the impact of the campaigns on the revenue and
 
 ### Dashboard:
 
-![Dashboard](/dashboard.png)
+![Dashboard](/Atliq_mart_problem/dashboard.png)
 
 
